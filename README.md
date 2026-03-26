@@ -33,12 +33,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=goleij&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goleij&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=goleij&theme=radical&margin-w=4)
-
 ---

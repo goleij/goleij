@@ -26,11 +26,3 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goleij&show_icons=true&theme=radical&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=goleij&theme=radical)
-
----

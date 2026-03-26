@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Atieh :
 💻 Software Engineer  <br>🚀 Building clean and scalable software  <br>🌱 Currently learning new technologies  <br>⚡ Always improving, one commit at a time
 
 

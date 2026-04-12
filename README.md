@@ -3,7 +3,7 @@
 💻 Software Engineer  
 🚀 Building clean and scalable software  
 🌱 Currently learning new technologies  
-⚡ Always improving, one commit at a time  
+⚡ Always improving
 
 ---
 

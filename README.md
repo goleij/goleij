@@ -1,9 +1,6 @@
-# 💫 Hi, I'm Atieh
+#  Hi, I'm Atieh
 
-💻 Software Engineer  
-🚀 Building clean and scalable software  
-🌱 Currently learning new technologies  
-⚡ Always improving
+Software Engineer  
 
 ---
 
